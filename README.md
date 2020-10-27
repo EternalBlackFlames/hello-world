@@ -1,2 +1,2 @@
 # hello-world
-Hi my name is shiva i'm new here, i love c and python programming
+Hi my name is shiva I'm new here, I love c and python programming
